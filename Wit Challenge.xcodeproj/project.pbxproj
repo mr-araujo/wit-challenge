@@ -15,7 +15,6 @@
 		EB339095273B121F007A9C0D /* DetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB339094273B121F007A9C0D /* DetailViewModel.swift */; };
 		EB5D9D992736EF1800209686 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5D9D982736EF1800209686 /* AppDelegate.swift */; };
 		EB5D9D9B2736EF1800209686 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5D9D9A2736EF1800209686 /* SceneDelegate.swift */; };
-		EB5D9D9D2736EF1800209686 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5D9D9C2736EF1800209686 /* ViewController.swift */; };
 		EB5D9DA22736EF1900209686 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB5D9DA12736EF1900209686 /* Assets.xcassets */; };
 		EB5D9DA52736EF1900209686 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB5D9DA32736EF1900209686 /* LaunchScreen.storyboard */; };
 		EB5D9DEA2736FFBA00209686 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB5D9DE92736FFBA00209686 /* ListViewController.swift */; };
@@ -50,7 +49,6 @@
 		EB5D9D952736EF1800209686 /* Wit Challenge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Wit Challenge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB5D9D982736EF1800209686 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		EB5D9D9A2736EF1800209686 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		EB5D9D9C2736EF1800209686 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		EB5D9DA12736EF1900209686 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EB5D9DA42736EF1900209686 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EB5D9DA62736EF1900209686 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -160,7 +158,6 @@
 				EBE5262F2737065F00D861D5 /* Services */,
 				EB5D9DD82736F98200209686 /* Resources */,
 				EBA4179F273B24E200DAC46D /* Extensions */,
-				EB5D9D9C2736EF1800209686 /* ViewController.swift */,
 				EB5D9DA32736EF1900209686 /* LaunchScreen.storyboard */,
 				EB5D9DA62736EF1900209686 /* Info.plist */,
 			);
@@ -377,7 +374,6 @@
 				EBE5264B2737263C00D861D5 /* ListViewModel.swift in Sources */,
 				EB33908D273AEE57007A9C0D /* BadgeViewModel.swift in Sources */,
 				EBE5262A273703B400D861D5 /* GitHubService.swift in Sources */,
-				EB5D9D9D2736EF1800209686 /* ViewController.swift in Sources */,
 				EBE526352737189E00D861D5 /* User.swift in Sources */,
 				EB5D9D992736EF1800209686 /* AppDelegate.swift in Sources */,
 				EBE52643273720D800D861D5 /* ListViewCell.swift in Sources */,
